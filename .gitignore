@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 *.json
+charts/*
+.DS_Store
